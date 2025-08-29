@@ -1,15 +1,15 @@
 import "./BoardDetail.css";
 
 const IMAGE_SRC = {
-  profileImage: require("@assets/profile_image.png"),
-  linkImage: require("@assets/link.png"),
-  locationImage: require("@assets/location.png"),
-  cheongsanImage: require("@assets/cheongsan.png"),
-  neotubeImage: require("@assets/neotube.png"),
-  badImage: require("@assets/bad.png"),
-  goodImage: require("@assets/good.png"),
-  hamberger: require("@assets/hamberger.png"),
-  pencil: require("@assets/pencil.png"),
+  profileImage: "/assets/profile_image.png",
+  linkImage: "/assets/link.png",
+  locationImage: "/assets/location.png",
+  cheongsanImage: "/assets/cheongsan.png",
+  neotubeImage: "/assets/neotube.png",
+  badImage: "/assets/bad.png",
+  goodImage: "/assets/good.png",
+  hamberger: "/assets/hamberger.png",
+  pencil: "/assets/pencil.png",
 } as const;
 
 const BoardsDetail = () => {

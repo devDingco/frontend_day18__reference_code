@@ -2,7 +2,7 @@ import "./BoardsNew.css";
 import React, { ChangeEvent } from "react";
 
 const IMAGE_SRC = {
-  addImage: require("@assets/add_image.png"),
+  addImage: "/assets/add_image.png",
 };
 
 const BoardsNew = () => {
