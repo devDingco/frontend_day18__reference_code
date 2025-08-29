@@ -1,9 +1,9 @@
-# frontend_day19__reference_code
+# frontend_day18__reference_code
 
-### Day 19 기본 요구사항
+### Day 18 기본 요구사항
 
 1. 공통
-    - [ ]  완성된 day18 폴더를 활용하여 day19를 완성해 주세요.
+    - [ ]  완성된 day17 폴더를 활용하여 day18를 완성해 주세요.
     - [ ]  타입스크립트를 설치해주세요.
     - [ ]  tsconfig.json 설정을 완료해주세요.
     - [ ]  src/App.js, src/index.js 파일의 확장자를 tsx로 변경해주세요
